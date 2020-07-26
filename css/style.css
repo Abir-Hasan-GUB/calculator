@@ -1,0 +1,29 @@
+.calculator{
+    height: 445px;
+    width: 400px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 30px 30px;
+}
+.scren{
+    height: 100px;
+    width: 100%;
+    background: rgba(102, 99, 99, 0.6);
+}
+body{
+    background: gray;
+    color: aliceblue;
+}
+.button-body{
+    background-color: green;
+    height: 275px;
+    width: 100%;
+    margin-top: 15px;
+}
+.btn-control{
+    margin-left: 10px;
+    margin-top: 15px;
+    width: 70px;
+    height: 50px;
+}
